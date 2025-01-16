@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrik</h1>
-<h3 align="center">Experienced cloud-native software engineer with a main interest in large distributed systems. 10+ years of expertise in PHP and SQL-driven software. More recently, I have been utilising modern development tools such as the Go/Golang, Protocol Buffers, and gRPC</h3>
+<p align="center">Experienced cloud-native software engineer with a main interest in large distributed systems. 10+ years of expertise in PHP and SQL-driven software. More recently, I have been utilising modern development tools such as the Go/Golang, Protocol Buffers, and gRPC</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pfuhrmann&label=Profile%20views&color=0e75b6&style=flat" alt="pfuhrmann" /> </p>
 <p align="left"> <a href="https://x.com/patrikfuhrmann" target="blank"><img src="https://img.shields.io/twitter/follow/patrikfuhrmann?style=for-the-badge" alt="patrikfuhrmann" /></a> </p>
